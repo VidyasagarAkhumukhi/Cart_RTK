@@ -23,7 +23,7 @@ This project is a fully functional shopping cart application built with React, d
 
 ## 🚀 Live Demo
 
-[Link to Live Demo](#)
+[Link to Live Demo](https://cartrtknoto.netlify.app/)
 
 ## 🛠️ Technologies Used
 
